@@ -12,3 +12,7 @@ This project will test my creativity as well as all the knowledge I learned with
 For the images used in this project:
 
 Photo by freestocks.org: https://www.pexels.com/photo/brown-pumpkin-halloween-decor-and-gray-skull-at-grass-field-211358/
+
+Socials: https://twitter.com/FreestocksOrg // https://www.instagram.com/freestocks/
+
+///ACKNOWLEDGEMENT///
