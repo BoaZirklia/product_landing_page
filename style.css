@@ -58,12 +58,12 @@ h1 {
     font-weight: 900;
 }
 
-p {
+.hero_p {
     font-size: 18px;
     color: #E5E7EB;
 }
 
-img {
+.witch {
     height: 300px;
     width: 500px;
     border-radius: 10px;
@@ -86,4 +86,60 @@ img {
 
 .hero_button:hover {
     background-color: #3882F6;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 10px;
+}
+
+.infos {
+    width: 200px;
+    height: 300px;
+    padding: 0 25px;
+    
+}
+
+.info_image {
+    display: flex;
+    padding: 20px 20px 20px 150px;
+}
+
+.second_header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.second_container {
+    padding: 30px;
+}
+
+.infop {
+    text-align: center;
+}
+
+.third_container {
+    background-color: #E5E7EB;
+}
+
+q {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quotes {
+    padding: 80px 300px;
+}
+
+.author_q {
+    text-align: right;
+    font-weight: 900;
+    color: #1F2937;
+    font-size: 25px;
 }
