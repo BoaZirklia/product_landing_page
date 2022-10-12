@@ -15,4 +15,30 @@ Photo by freestocks.org: https://www.pexels.com/photo/brown-pumpkin-halloween-de
 
 Socials: https://twitter.com/FreestocksOrg // https://www.instagram.com/freestocks/
 
+-----------------------------
+
+Photo by Mikhail Nilov: https://www.pexels.com/photo/deck-of-cards-and-candles-with-crystals-for-divination-6945070/
+
+https://instagram.com/dreamwood.studio
+
+------------------------------
+
+hoto by RODNAE Productions: https://www.pexels.com/photo/an-old-book-and-candles-on-wooden-table-with-glass-bottles-7978061/
+
+https://instagram.com/rodnae.prod
+
+-------------------------------
+
+Photo by Toni Cuenca: https://www.pexels.com/photo/two-jack-o-lantern-lamps-619418/
+
+https://twitter.com/tonircuenca
+
+https://instagram.com/tonicreative
+
+--------------------------------
+
+Photo by Martin Lopez: https://www.pexels.com/photo/low-angle-photo-of-bird-flying-during-night-2314308/
+
+https://instagram.com/Lopez.png
+
 ///ACKNOWLEDGEMENT///
