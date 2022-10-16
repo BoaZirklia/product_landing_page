@@ -191,7 +191,7 @@ q {
 
 .call_button:hover {
     background-color: #3882F6;
-    border: 2px white solid;
+    border: 2px #E5E7EB solid;
 }
 
 .call {
