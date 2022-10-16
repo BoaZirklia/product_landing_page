@@ -4,6 +4,7 @@ body {
     min-width: 100vh;
 }
 
+/* First Part */
 .first_container {
     background-color: #1F2937;
     padding: 10px 150px 10px 150px;
@@ -38,6 +39,20 @@ ul {
 .header_links {
     margin: 0;
     display: flex;
+}
+
+a:link {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+a:hover {
+    color: #E5E7EB;
+    text-shadow: 5px 5px 3px black;
+}
+
+a:visited {
+    color: #E5E7EB;
 }
 
 .headers {
@@ -87,7 +102,10 @@ h1 {
 .hero_button:hover {
     background-color: #3882F6;
 }
+/* First Part */
 
+
+/* Second Part */
 img {
     width: 200px;
     height: 200px;
@@ -121,7 +139,9 @@ img {
 .infop {
     text-align: center;
 }
+/* Second Part */
 
+/* Third Part */
 .third_container {
     background-color: #E5E7EB;
 }
@@ -143,3 +163,57 @@ q {
     color: #1F2937;
     font-size: 25px;
 }
+/* Third Part */
+
+/* Fourth Part */
+.fourth_container {
+    padding: 90px 200px;
+}
+.call_action {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 20px 30px;
+    color: #E5E7EB;
+    padding: 50px 90px;
+}
+
+.call_button {
+    background-color: #060707;
+    color: #E5E7EB;
+    padding : 8px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+}
+
+.call_button:hover {
+    background-color: #3882F6;
+    border: 2px white solid;
+}
+
+.call {
+    font-size: 18px;
+    margin: 0;
+}
+
+.calls {
+    margin: 0;
+    font-size: 25px;
+}
+
+/* Fourth Part */
+
+/* Footer */
+.footer {
+    left: 0;
+    bottom: 0;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+}
+/* Footer */
